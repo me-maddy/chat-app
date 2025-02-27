@@ -19,7 +19,7 @@ const Header = () => {
       <div>
         <Link
           to="/login"
-          className="no-underline cursor-pointer bg-amber-100 rounded-md !text-amber-700 px-4 py-2 focus:ring-2 focus:ring-amber-700 transition-all duration-200 hover:shadow-md shadow-[0px_0px_4px] shadow-amber-300"
+          className="no-underline cursor-pointer bg-amber-400 rounded-md !text-amber-50 px-4 py-2 focus:ring-2 focus:ring-amber-200 transition-all duration-200 hover:shadow hover:shadow-amber-200 shadow-[0px_0px_5px] shadow-white"
         >
           Login
         </Link>
